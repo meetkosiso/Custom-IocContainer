@@ -1,1 +1,1 @@
- IoContainer is a simple IoContainer resolves dependencies.
+ IoContainer is a simple IoContainer that resolves dependencies.
