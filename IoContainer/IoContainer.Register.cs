@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IoContainer
 {
-    public static class MDLog
+    public static class IoContainer.Register
     {
         private static readonly IDictionary<Type, Type> types = new Dictionary<Type, Type>();
         private static readonly IDictionary<Type, object> typeInstance = new Dictionary<Type, object>();
